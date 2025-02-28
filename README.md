@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/Licencia-MIT-green.svg)  
 
 ## 📖 Descripción  
-Este es un proyecto académico que busca centralizar y organizar información sobre **Desarrollo Humano Organizacional** con énfasis en **Liderazgo**.  
+Este es un proyecto académico que busca centralizar y organizar información sobre **Desarrollo del talento humano**.  
 La wiki servirá como un recurso educativo para estudiantes, profesionales y cualquier persona interesada en el crecimiento organizacional y el desarrollo del talento humano.  
 
 ## ✨ Características  
