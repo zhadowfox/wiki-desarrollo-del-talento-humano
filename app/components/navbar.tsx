@@ -9,18 +9,18 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <div className="p-10">
+    <div className="p-5 flex justify-center">
       
     
       {/* Botón para expandir/colapsar */}
       <button 
-        className="flex items-center p-2 text-left text-white bg-slate-900 rounded-md "
+        className="flex items-center p-2 text-left text-white bg-slate-900 rounded-md mr-5"
         onClick={() => setIsOpen(!isOpen)}
       >
         {isOpen ? <X  className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
         
       </button>
-
+      <h1 className="capitalize text-3xl">Desarrollo del talento humano en organizaciones saludables</h1>
       {/* Contenido colapsable con animación */}
       <motion.ul 
         initial={false}
