@@ -34,9 +34,11 @@ const page = () => {
                     En este sentido, un plan de carrera es un conjunto de estrategias y acciones diseñadas para guiar el desarrollo profesional de un empleado dentro de una organización, con el fin de asegurar su crecimiento y progreso en puestos de mayor responsabilidad (Alles, 2009). Estos planes están orientados a ofrecer a los empleados una ruta clara que les permita avanzar dentro de la organización, al mismo tiempo que favorecen a la empresa con la preparación de su personal para asumir posiciones clave en el futuro.
                     </p>
                     <br />
-                    <p>
+                    
+                    <p className='mt-2'>
                     La importancia de los planes de carrera radica en la alineación que crean entre los objetivos personales de los empleados y las necesidades organizacionales. Además, sirven para promover la retención del talento y la motivación, al proporcionar a los colaboradores una visión de su futuro dentro de la empresa.
                     </p>
+                    <br />
                     <Link className="text-blue-500 underline" href={"https://www.instagram.com/p/DFY-kyYOWni/?igsh=MXg0cWowdXAwYXgwZA=="} target='_blank'>
                     <Image
   src="/articulo1/1.png"
@@ -59,8 +61,12 @@ const page = () => {
                     </h1>
 
                     <p>
-Marco S.A. (2021, septiembre 6). Plan de Carrera y Desarrollo Como hacer un formato para plan de Carrera en una Empresa. You Tube. <Link href="https://www.youtube.com/watch?v=Mw6Od-ZKYKg" target='_blank' className='text-blue-500 underline'>https://www.youtube.com/watch?v=Mw6Od-ZKYKg</Link>
-Asana (2025), (Asana. (2025, febrero 12). Desarrollo profesional: cómo hacer un plan de carrera en 6 pasos. Asana. <Link href="https://asana.com/es/resources/professional-development-plan" target='_blank' className='text-blue-500 underline'>https://asana.com/es/resources/professional-development-plan</Link>) ofrece seis pasos fundamentales para la creación de un PDP efectivo:
+                    <p className="flex justify-center w-full my-3">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Mw6Od-ZKYKg?si=J_AtN26i1zq52zqU" title="YouTube video player" allowFullScreen></iframe>   
+                                     </p>
+                    
+
+                    <Link href="https://asana.com/es/resources/professional-development-plan" target='_blank' className='text-blue-500 underline'>Asana (2025)</Link>, ofrece seis pasos fundamentales para la creación de un PDP efectivo:
 <br />
 <br />
 
@@ -73,6 +79,7 @@ Asana (2025), (Asana. (2025, febrero 12). Desarrollo profesional: cómo hacer un
     <li><b>Solicitar retroalimentación:</b> Recibir retroalimentación de mentores o supervisores es vital para mejorar el rendimiento.</li>
     <li><b>Revisar y ajustar el plan regularmente:</b> El PDP debe ser flexible y ajustarse conforme cambian las circunstancias.</li>
 </ul>
+<Link className="text-blue-500 underline my-4" href={"https://www.instagram.com/p/DFnrRFctz3c/?igsh=MXI1Ymp3dzV2aGQ3cw== "} target='_blank'> 
 <Image
   src="/articulo1/2.png"
   alt="@creatalento.pe. (2025, febrero 03). 7 pasos para diseñar un plan de carrera."
@@ -80,23 +87,22 @@ Asana (2025), (Asana. (2025, febrero 12). Desarrollo profesional: cómo hacer un
   height={300} // Alto original o aproximado de la imagen
   className="w-auto h-auto max-w-full m-auto"
 />
+</Link>
 <br />
-<p>
-@creatalento.pe. (2025, febrero 03). 7 pasos para diseñar un plan de carrera. Instagram. <Link className="text-blue-500 underline" href={"https://www.instagram.com/p/DFnrRFctz3c/?igsh=MXI1Ymp3dzV2aGQ3cw== "} target='_blank'> https://www.instagram.com/p/DFnrRFctz3c/?igsh=MXI1Ymp3dzV2aGQ3cw== </Link>
-</p>
-<br />
+
+
 <h1 className='text-xl font-bold mb-2 mt-2'>
 Relación entre el Plan de Carrera y la Estrategia Organizacional
 </h1>
 <p>
-El plan de carrera no debe ser visto como un proceso aislado, sino como una parte integral de la estrategia organizacional. Como lo relacionan los autores Rodríguez y González (2017), (González Millan, J. J., Rodríguez Díaz, M. T.(2017). Gestión del conocimiento, capital intelectual e indicadores aplicados. Diaz de Santos. <Link className="text-blue-500 underline" href={"https://www-ebooks7-24-com.ezproxy.uniminuto.edu/?il=6764"} target='_blank'>https://www-ebooks7-24-com.ezproxy.uniminuto.edu/?il=6764</Link> ) las empresas que desarrollan planes de carrera alineados con su misión y visión logran un mayor éxito en el largo plazo. Estos planes deben tener en cuenta las necesidades futuras de la organización, lo que incluye la creación de una estructura organizativa flexible capaz de adaptarse a cambios en el mercado y la industria.
+El plan de carrera no debe ser visto como un proceso aislado, sino como una parte integral de la estrategia organizacional. Como lo relacionan los autores <Link className="text-blue-500 underline" href={"https://www-ebooks7-24-com.ezproxy.uniminuto.edu/?il=6764"} target='_blank'>Rodríguez y González (2017)</Link>, las empresas que desarrollan planes de carrera alineados con su misión y visión logran un mayor éxito en el largo plazo. Estos planes deben tener en cuenta las necesidades futuras de la organización, lo que incluye la creación de una estructura organizativa flexible capaz de adaptarse a cambios en el mercado y la industria.
 </p>
 <br />
-<p>
+<p className='mt-2'>
 La relación entre la estrategia organizacional y los planes de carrera también se manifiesta en la creación de planes de sucesión. Estos planes aseguran que la organización cuente con una banca de talento que pueda ocupar posiciones clave cuando sea necesario, evitando la interrupción de sus operaciones debido a vacantes imprevistas.
 </p>
 
-
+<Link className="text-blue-500 underline my-4" href={"https://www.instagram.com/p/DF-2dpQT5V6/?igsh=MWhpNnhzMHg0ODgzYg=="} target='_blank'>
 <Image
   src="/articulo1/3.png"
   alt="@creatalento.pe. (2025, febrero 12). Plan de carrera vs plan de sucesión."
@@ -104,18 +110,15 @@ La relación entre la estrategia organizacional y los planes de carrera también
   height={300} // Alto original o aproximado de la imagen
   className="w-auto h-auto max-w-full m-auto"
 />
+</Link>
 <br />    
-<p>
-@creatalento.pe. (2025, febrero 12). Plan de carrera vs plan de sucesión. Instagram. <Link className="text-blue-500 underline" href={"https://www.instagram.com/p/DF-2dpQT5V6/?igsh=MWhpNnhzMHg0ODgzYg=="} target='_blank'>https://www.instagram.com/p/DF-2dpQT5V6/?igsh=MWhpNnhzMHg0ODgzYg==</Link>
 
-</p> 
 <br />
 <h1 className='text-xl font-bold mb-2 mt-2'>Ventajas del Plan de Carrera para la Organización</h1>
 <p>Implementar un plan de carrera bien estructurado presenta múltiples ventajas tanto para los empleados como para la organización. Entre ellas se incluyen:</p>
 <br />
 <ul className="flex flex-col gap-y-4 list-decimal ps-10">
-    <li><b>Retención de talento:</b> Un plan de carrera claro motiva a los empleados a quedarse en la organización, al ofrecerles una proyección profesional (Motley & McMullin, 2020).( Motley, R. J., & McMullin, A. (2020). Developing your professional career plan. Family Practice Management. <Link className="text-blue-500 underline" href={"https://www.aafp.org/pubs/fpm/issues/2020/0700/p21.html"} target='_blank'>
-    https://www.aafp.org/pubs/fpm/issues/2020/0700/p21.html</Link> )
+    <li><b>Retención de talento:</b> Un plan de carrera claro motiva a los empleados a quedarse en la organización, al ofrecerles una proyección profesional <Link className="text-blue-500 underline" href={"https://www.aafp.org/pubs/fpm/issues/2020/0700/p21.html"} target='_blank'>(Motley & McMullin, 2020)</Link>
 
     </li>
     <li><b>Mejora del desempeño:</b> Los empleados que ven un camino claro hacia el avance laboral</li>
@@ -126,17 +129,19 @@ La relación entre la estrategia organizacional y los planes de carrera también
 
 
 <br />
-<h1 className='text-xl font-bold mb-2 mt-2'>Programas Complementarios: Mentoring y Coaching</h1>
-<p>
-Sergio C. (2016, enero 08). COACHING VS MENTORING. <Link className="text-blue-500 underline" href={"https://www.youtube.com/watch?v=5NM-2JNzELY "} target='_blank'>https://www.youtube.com/watch?v=5NM-2JNzELY </Link>
+<h1 className='text-xl font-bold my-2 '>Programas Complementarios: Mentoring y Coaching</h1>
+<p className='flex justify-center w-full my-2'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5NM-2JNzELY?si=U80m4rG06W5K5RGH"  allowFullScreen></iframe>
+
 </p>
 
 <p>
 Dentro de los planes de carrera, los programas de mentoring y coaching son fundamentales. El mentoring es una relación de desarrollo profesional entre un mentor (normalmente un empleado senior) y un mentee (empleado en desarrollo), con el objetivo de transmitir conocimientos, habilidades y experiencias que ayuden al mentee a avanzar en su carrera (Motley & McMullin, 2020). El coaching, por otro lado, se centra en el desarrollo de habilidades específicas y en la mejora del rendimiento del empleado, a menudo mediante sesiones más estructuradas y orientadas a objetivos concretos. 
 </p>
 
-<h1 className='text-xl font-bold mb-2 mt-2'>Conclusión</h1>
+<h1 className='text-xl font-bold my-2'>Conclusión</h1>
 <br />
+<Link className="text-blue-500 underline" href={"https://www.linkedin.com/pulse/plan-de-carrera-lo-est%C3%A1s-incluyendo-en-tu-estrategia-navassi-diaz/"} target='_blank'>
 <Image
   src="/articulo1/4.png"
   alt="Gabriel, N. (2025). Plan de Carrera: ¿Lo estás incluyendo en tu estrategia?."
@@ -145,26 +150,30 @@ Dentro de los planes de carrera, los programas de mentoring y coaching son funda
   className="w-auto h-auto max-w-full m-auto"
 />
 <br />
-<p>Gabriel, N. (2025). Plan de Carrera: ¿Lo estás incluyendo en tu estrategia?. 
-    <Link className="text-blue-500 underline" href={"https://www.linkedin.com/pulse/plan-de-carrera-lo-est%C3%A1s-incluyendo-en-tu-estrategia-navassi-diaz/"} target='_blank'>https://www.linkedin.com/pulse/plan-de-carrera-lo-est%C3%A1s-incluyendo-en-tu-estrategia-navassi-diaz/</Link></p>
+<p>Gabriel, N. (2025).
+</p>
+</Link>
     <br />
     <p>
     En relación a lo anterior, podemos determinar que los planes de carrera son una herramienta fundamental para el desarrollo profesional dentro de las organizaciones, ya que permiten alinear las aspiraciones individuales de los empleados con los objetivos estratégicos de la empresa. Estos planes no solo benefician a los trabajadores al ofrecerles una trayectoria clara de crecimiento y desarrollo, sino que también contribuyen a mejorar la retención del talento, aumentar la motivación y fomentar un ambiente de trabajo más comprometido. Además, cuando las organizaciones implementan programas de formación y desarrollo dentro de los planes de carrera, pueden asegurar una sucesión eficaz de talentos para los puestos clave, promoviendo una mayor estabilidad y competitividad.
     </p>
     <br />
-    <p>
+    <p className='my-2'>
     El éxito de un plan de carrera radica en su flexibilidad y en la capacidad de adaptarse a las necesidades cambiantes de los empleados y de la empresa. Un plan bien diseñado, que incluya una evaluación constante de metas y habilidades, facilita tanto el crecimiento personal como la contribución al éxito organizacional. Por lo tanto, invertir en planes de carrera efectivos se traduce en una ventaja estratégica, al desarrollar empleados más capacitados y alineados con los objetivos a largo plazo de la organización.
     </p>
 
     <br />
-    <p>
-    Integra. (2018, febrero 28). plan de carrera. <Link className="text-blue-500 underline" href={"https://www.youtube.com/watch?v=pfH_0bUKI4E"} target='_blank'>https://www.youtube.com/watch?v=pfH_0bUKI4E</Link>
-    </p>
+    <p className='flex justify-center w-full'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pfH_0bUKI4E?si=CcVgu1clOeb8MnAh" allowFullScreen></iframe>
+
+
+</p>
+
 
     <br />
 
     <h1 className='text-xl font-bold mb-2 mt-2'>Referencias</h1>
-    <p className="my-2">
+    <p className="my-2" id='alles'>
     Alles, M. A. (2009). Construyendo talento: programas de desarrollo para el crecimiento de las personas y la continuidad de las organizaciones: (ed.). Ediciones Granica. <Link className='text-blue-500 underline' href="https://elibro.net/es/ereader/uniminuto/66700?page=206" target='_blank' rel="noopener noreferrer">https://elibro.net/es/ereader/uniminuto/66700?page=206</Link>
 
     </p>
@@ -180,6 +189,18 @@ Dentro de los planes de carrera, los programas de mentoring y coaching son funda
 
     González Millan, J. J., Rodríguez Díaz, M. T.(2017). Gestión del conocimiento, capital intelectual e indicadores aplicados. Diaz de Santos. <Link className="text-blue-500 underline" href={"https://www-ebooks7-24-com.ezproxy.uniminuto.edu/?il=6764"} target='_blank'>https://www-ebooks7-24-com.ezproxy.uniminuto.edu/?il=6764</Link>
     </p>
+    <br />
+
+    <div className="flex flex-col justify-center align-middle">
+<Image
+  src="/articulo1/perfil.png"
+  alt="Silvia Fernanda Arce Rueda"
+  width={500} // Ancho original o aproximado de la imagen
+  height={300} // Alto original o aproximado de la imagen
+  className="w-[200px] h-[200px] object-contain m-auto"
+/>
+<h1 className='my-2 font-bold italic text-center'>Autora: Silvia Fernanda Arce Rueda</h1>
+</div>
 
 
                 </div>
