@@ -11,7 +11,7 @@ const page = () => {
         <Image src={banner_2} alt={""} className="m-auto w-full max-w-[1086px] md:w-auto" />
       </div>
       <div className="flex justify-center">
-        <div className="w-[1086px] grid leading-relaxed">
+        <div className="lg:w-[1086px] flex flex-col w-[80%] leading-relaxed">
           <h1 className='font-bold text-xl mb-2'>Programas de sucesión</h1>
           <p>
             Los programas de sucesión son una herramienta organizacional y de desarrollo de colaboradores en cargos clave, que permiten generar y transmitir las capacidades y conocimientos de un individuo a otro; para asegurar su continuidad en el tiempo, la transferencia de cultura organizacional, la especificidad técnica y la manera de hacer las cosas. Según <Link href={"https://journalprosciences.com/index.php/ps/article/view/209"} target="_blank" className="text-blue-500 underline">Montiel-Díaz, Colina, Solorzano, & Herrera (2019).</Link>  Los cargos clave son aquellas personas consideradas piezas importantes para la organización.
@@ -60,7 +60,7 @@ const page = () => {
 
           </p>
           <p>Beneficios:</p>
-          <ul className='ps-10 list-disc mb-4'>
+          <ul className='lg:ps-10 list-disc mb-4'>
             <li>Contratación de nuevos talentos o promociones internas (planes carrera)</li>
             <li>Continuidad de la cultura y valores corporativos</li>
             <li>Comprensión de la estrategia y delimitación de objetivos</li>
@@ -69,7 +69,7 @@ const page = () => {
 
           </ul>
           <p>Aspectos a tener en cuenta:</p>
-          <ul className='ps-10 list-disc mb-4'>
+          <ul className='lg:ps-10 list-disc mb-4'>
             <li>Cambios en el gobierno corporativo u organigrama</li>
             <li>Contexto de clientes, proveedores y mercado del cargo clave</li>
             <li>Los candidatos externos pueden no desarrollar compromiso y gestión de igual manera que el cargo clave por sucesión, impacto en el equipo de trabajo ya establecidoContexto de clientes, proveedores y mercado del cargo clave</li>

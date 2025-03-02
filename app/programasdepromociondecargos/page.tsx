@@ -12,7 +12,7 @@ const page = () => {
         <Image src={banner_3} alt={""} className="m-auto w-full max-w-[1086px] md:w-auto" />
       </div>
       <div className="flex justify-center">
-        <div className="w-[1086px] grid leading-relaxed">
+        <div className="lg:w-[1086px] flex flex-col w-[80%] leading-relaxed">
           <h1 className="text-xl font-bold mb-2">
             Programas de Promoción de Cargos – Estrategia Clave para el Desarrollo Organizacional
           </h1>
@@ -36,43 +36,43 @@ const page = () => {
           <p className="my-2">
             Pero ¿Qué elementos clave se deben tener en cuenta al momento de implementar dentro de la organización un programa de promoción de cargos?
           </p>
-          <p className='flex py-2 px-10 gap-x-4'>
+          <p className='flex py-2 lg:px-10 gap-x-4'>
 
-            <Search className='w-16 h-12'></Search>
+            <Search className='w-16 h-12 lg:block hidden'></Search>
             <span>
               <span className='font-bold'>1. Identificación del Talento:</span> Es fundamental contar con herramientas de evaluación del desempeño y potencial, como la matriz de talento o el modelo de competencias (Chiavenato, 2019).
             </span>
           </p>
  
 
-          <p className='flex py-2 px-10 gap-x-4'>
+          <p className='flex py-2 lg:px-10 gap-x-4'>
 
             
             <span>
               <span className='font-bold'>2. Planes de Desarrollo Profesional:</span> Se deben diseñar itinerarios de crecimiento para cada colaborador, incluyendo capacitaciones, mentoring y coaching (Noe, 2020).
             </span>
-            <Lightbulb className='w-16 h-12'></Lightbulb>
+            <Lightbulb className='w-16 h-12 lg:block hidden'></Lightbulb>
           </p>
       
-          <p className='flex py-2 px-10 gap-x-4'>
+          <p className='flex py-2 lg:px-10 gap-x-4'>
 
-            <Split className='w-16 h-12'></Split>
+            <Split className='w-16 h-12 lg:block hidden'></Split>
             <span>
               <span className='font-bold'>3. Movilidad Interna:</span> Un sistema eficaz debe considerar la posibilidad de ascensos verticales, promociones laterales y rotaciones en distintas áreas (Werther & Davis, 2021).
             </span>
           </p>
-          <p className='flex py-2 px-10 gap-x-4'>
+          <p className='flex py-2 lg:px-10 gap-x-4'>
 
        
             <span>
               <span className='font-bold'>4. Criterios de Selección Transparentes:</span> La equidad y la meritocracia deben ser principios rectores para evitar sesgos y garantizar un proceso justo (Dessler, 2020).
             </span>
-            <TextSelect className='w-16 h-12'></TextSelect>
+            <TextSelect className='w-16 h-12 lg:block hidden'></TextSelect>
           </p>
 
-          <p className='flex py-2 px-10 gap-x-4'>
+          <p className='flex py-2 lg:px-10 gap-x-4'>
 
-          <UsersRound className='w-16 h-12'></UsersRound> 
+          <UsersRound className='w-16 h-12 lg:block hidden'></UsersRound> 
 <span>
   <span className='font-bold'>5. Alineación con la Estrategia Organizacional:</span> Un programa de promoción efectivo debe estar en consonancia con los objetivos y valores corporativos (Robbins & Judge, 2021).
 </span>
@@ -86,7 +86,7 @@ const page = () => {
 <p className='mb-2'>
 La implementación de un programa de promoción de cargos, tiene tanto para los colaboradores como para la organización una serie de ventajas como:
 </p>
-<ul className='ps-10 mb-2 list-disc'>
+<ul className='lg:ps-10 mb-2 list-disc'>
   <li><b>Retención del Talento:</b> Disminuye la rotación de personal al ofrecer oportunidades de crecimiento (Noe, 2020).</li>
   <li><b>Aumento del Compromiso y la Productividad:</b> Los empleados se sienten valorados y motivados para mejorar su desempeño (Chiavenato, 2019).</li>
   <li><b>Fortalecimiento del Liderazgo Interno:</b> Se garantiza la continuidad del negocio al preparar futuros líderes (Dessler, 2020).</li>

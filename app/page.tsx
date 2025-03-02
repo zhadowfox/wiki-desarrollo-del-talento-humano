@@ -10,7 +10,7 @@ export default function Home() {
         <Image src="/banner.png" alt="Banner" width={1086} height={300} className="m-auto w-full max-w-[1086px] md:w-auto" />
       </div>
       <div className="flex justify-center">
-        <div className="w-[1086px] grid grid-cols-2 grid-rows-3 gap-0">
+        <div className="lg:w-[1086px] grid grid-cols-2 grid-rows-3 gap-0">
           <div className="col-span-1 row-span-1">
             <Link href="/plandecarrera">
               <Image src="/btn/btn_plan_carrera.png" alt="Planes de Carrera" width={471} height={200} className="m-auto w-full max-w-[471px] md:w-auto hover:scale-105 transition-all duration-200 ease-in-out" />

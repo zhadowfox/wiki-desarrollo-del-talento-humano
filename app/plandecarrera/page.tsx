@@ -11,14 +11,14 @@ const page = () => {
 
 
 
-            <div className="w-full justify-center ">
+            <div className="lg:w-full justify-center ">
 
 
-                <Image src={banner_1} alt={""} className="m-auto w-full max-w-[1086px] md:w-auto" />
+                <Image src={banner_1} alt={""} className="m-auto w-full max-w-[1086px] " />
 
             </div>
             <div className="flex justify-center">
-                <div className="w-[1086px] grid leading-relaxed">
+                <div className="lg:w-[1086px] flex flex-col w-[80%] leading-relaxed">
                     <h1 className='text-xl font-bold mb-2 mt-2'>
                         El Plan de Carrera dentro de las Organizaciones y su importancia
                     </h1>
@@ -71,7 +71,7 @@ const page = () => {
 <br />
 
 </p>
-<ul className='list-decimal ps-10 flex flex-col gap-y-4 '>
+<ul className='list-decimal lg:ps-10 flex flex-col gap-y-4 '>
     <li><b>Definir metas profesionales:</b> Aclarar las metas a corto y largo plazo es crucial para establecer una dirección clara.</li>
     <li><b>Evaluar habilidades actuales:</b> Es importante conocer las competencias actuales para identificar áreas de mejora.</li>
     <li><b>Establecer objetivos de desarrollo:</b> Los objetivos deben ser específicos, medibles y alcanzables.</li>
@@ -117,7 +117,7 @@ La relación entre la estrategia organizacional y los planes de carrera también
 <h1 className='text-xl font-bold mb-2 mt-2'>Ventajas del Plan de Carrera para la Organización</h1>
 <p>Implementar un plan de carrera bien estructurado presenta múltiples ventajas tanto para los empleados como para la organización. Entre ellas se incluyen:</p>
 <br />
-<ul className="flex flex-col gap-y-4 list-decimal ps-10">
+<ul className="flex flex-col gap-y-4 list-decimal lg:ps-10">
     <li><b>Retención de talento:</b> Un plan de carrera claro motiva a los empleados a quedarse en la organización, al ofrecerles una proyección profesional <Link className="text-blue-500 underline" href={"https://www.aafp.org/pubs/fpm/issues/2020/0700/p21.html"} target='_blank'>(Motley & McMullin, 2020)</Link>
 
     </li>

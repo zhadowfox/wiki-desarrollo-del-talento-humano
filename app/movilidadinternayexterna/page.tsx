@@ -12,7 +12,7 @@ const page = () => {
         <Image src={banner_4} alt={""} className="m-auto w-full max-w-[1086px] md:w-auto" />
       </div>
       <div className="flex justify-center">
-        <div className="w-[1086px] grid leading-relaxed">
+        <div className="lg:w-[1086px] flex flex-col w-[80%] leading-relaxed">
           <h1 className="text-xl font-bold mb-2">
             Movilidad laboral interna Una Orientación Estratégica
           </h1>
@@ -82,7 +82,7 @@ const page = () => {
           </p>
 
           <p className="mb-2">
-            En el libro “Construyendo talento: programas de desarrollo para el crecimiento de las personas y la continuidad de las organizaciones" (Alles, 2009), se resalta la relevancia de que las empresas brinden oportunidades de crecimiento profesional a sus trabajadores, lo cual podría contribuir a disminuir la rotación y promover la movilidad interna. Sin embargo, la movilidad externa continúa siendo una realidad ineludible en el entorno laboral contemporáneo.
+            En el libro "Construyendo talento: programas de desarrollo para el crecimiento de las personas y la continuidad de las organizaciones" (Alles, 2009), se resalta la relevancia de que las empresas brinden oportunidades de crecimiento profesional a sus trabajadores, lo cual podría contribuir a disminuir la rotación y promover la movilidad interna. Sin embargo, la movilidad externa continúa siendo una realidad ineludible en el entorno laboral contemporáneo.
           </p>
           <h1 className="font-bold text-xl mb-2">
             Beneficios de la movilidad laboral externa

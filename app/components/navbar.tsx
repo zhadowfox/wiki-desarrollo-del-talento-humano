@@ -35,7 +35,7 @@ const Navbar = () => {
       </div>
       {/* Botón para expandir/colapsar */}
   
-      <h1 className="capitalize text-3xl">Desarrollo del talento humano en organizaciones saludables</h1>
+      <h1 className="capitalize lg:text-3xl text-sm">Desarrollo del talento humano en organizaciones saludables</h1>
       {/* Contenido colapsable con animación */}
     
     </div>
