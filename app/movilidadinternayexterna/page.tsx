@@ -2,7 +2,7 @@ import React from 'react'
 import banner_4 from "../../public/banner_articulos/banner_4.png"
 import Image from 'next/image'
 import Link from 'next/link'
-import { Lightbulb, Search, Split, TextSelect, UsersRound } from 'lucide-react'
+
 const page = () => {
   return (
     <>

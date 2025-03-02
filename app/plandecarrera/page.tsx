@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 import banner_1 from "../../public/banner_articulos/banner_1.png"
-import Navbar from '../components/navbar'
+
 import Image from 'next/image'
 
 const page = () => {
