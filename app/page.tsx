@@ -32,7 +32,7 @@ export default function Home() {
             </Link>
           </div>
           <div className="col-span-1 row-span-2 col-start-2 row-start-2">
-            <Link href="/aportesdeladetalentohumano">
+            <Link href="/aportesdelareadetalentohumano">
               <Image src="/btn/btn_aportes_area_talento_humano.png" alt="Aportes del área de talento humano" width={471} height={400} className="m-auto w-full max-w-[471px] md:w-auto hover:scale-105 transition-all duration-200 ease-in-out" />
             </Link>
           </div>
