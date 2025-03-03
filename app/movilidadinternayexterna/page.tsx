@@ -93,7 +93,7 @@ const page = () => {
               alt=""
               width={800} // Ancho original o aproximado de la imagen
               height={300} // Alto original o aproximado de la imagen
-              className="w-auto h-auto max-w-full m-auto mt-5 mb-5"
+              className="w-auto h-auto max-w-full m-auto mt-5 mb-5 xxl:w-[650px]"
             />
           </Link>
           <h1 className="font-bold text-xl mb-2">
@@ -105,7 +105,7 @@ const page = () => {
               alt=""
               width={800} // Ancho original o aproximado de la imagen
               height={300} // Alto original o aproximado de la imagen
-              className="w-auto h-auto max-w-full m-auto mt-5 mb-5"
+              className="w-auto h-auto max-w-full m-auto mt-5 mb-5 xxl:w-[650px]"
             />
           </Link>
 

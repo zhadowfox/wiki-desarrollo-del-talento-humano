@@ -85,7 +85,7 @@ const page = () => {
   alt="@creatalento.pe. (2025, febrero 03). 7 pasos para diseñar un plan de carrera."
   width={800} // Ancho original o aproximado de la imagen
   height={300} // Alto original o aproximado de la imagen
-  className="w-auto h-auto max-w-full m-auto xxl:w-[100%]"
+  className="w-auto h-auto max-w-full m-auto xxl:max-w-[800px]"
 />
 </Link>
 <br />
