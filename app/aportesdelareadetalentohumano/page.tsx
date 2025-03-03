@@ -26,7 +26,7 @@ const page = () => {
             alt=""
             width={800} // Ancho original o aproximado de la imagen
             height={300} // Alto original o aproximado de la imagen
-            className="w-auto h-auto max-w-full m-auto mt-5 mb-5"
+            className="w-auto h-auto max-w-full m-auto mt-5 mb-5 xxl:w-[600px]"
           />
           <span className='font-sm italic text-center'>Nota: Elaboración propia con base en revisión documental</span>
 

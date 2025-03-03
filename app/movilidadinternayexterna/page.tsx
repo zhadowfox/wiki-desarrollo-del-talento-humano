@@ -31,7 +31,7 @@ const page = () => {
               alt=""
               width={800} // Ancho original o aproximado de la imagen
               height={300} // Alto original o aproximado de la imagen
-              className="w-auto h-auto max-w-full m-auto mt-5 mb-5"
+              className="w-auto h-auto max-w-full m-auto mt-5 mb-5 xxl:w-[800px]"
             />
           </Link>
 
@@ -48,7 +48,7 @@ const page = () => {
               alt=""
               width={800} // Ancho original o aproximado de la imagen
               height={300} // Alto original o aproximado de la imagen
-              className="w-auto h-auto max-w-full m-auto mt-5 mb-5"
+              className="w-auto h-auto max-w-full m-auto mt-5 mb-5 xxl:w-[800px]"
             />
           </Link>
 
@@ -66,7 +66,7 @@ const page = () => {
               alt=""
               width={800} // Ancho original o aproximado de la imagen
               height={300} // Alto original o aproximado de la imagen
-              className="w-auto h-auto max-w-full m-auto mt-5 mb-5"
+              className="w-auto h-auto max-w-full m-auto mt-5 mb-5 xxl:w-[600px]"
             />
           </Link>
           <p className="mb-2">

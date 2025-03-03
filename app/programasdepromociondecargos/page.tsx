@@ -98,7 +98,7 @@ La implementación de un programa de promoción de cargos, tiene tanto para los 
               alt=""
               width={800} // Ancho original o aproximado de la imagen
               height={300} // Alto original o aproximado de la imagen
-              className="w-auto h-auto max-w-full m-auto mt-5"
+              className="w-auto h-auto max-w-full m-auto mt-5 xxl:w-[800px]"
             />
               <span className='font-sm italic text-center'>Nota: imagen de autoría propia</span>
 <p className="flex justify-center my-4">
