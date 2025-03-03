@@ -45,7 +45,7 @@ const page = () => {
   alt=" @creatalento.pe. (2025, enero 28). Todo sobre los planes de carrera. Instagram"
   width={800} // Ancho original o aproximado de la imagen
   height={300} // Alto original o aproximado de la imagen
-  className="w-auto h-auto max-w-full m-auto my-5 xxl:w-[100%]"
+  className="w-auto h-auto max-w-full m-auto my-5 xxl:max-w-[800px]"
 />
 </Link>
 <br />
