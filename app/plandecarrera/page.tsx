@@ -45,7 +45,7 @@ const page = () => {
   alt=" @creatalento.pe. (2025, enero 28). Todo sobre los planes de carrera. Instagram"
   width={800} // Ancho original o aproximado de la imagen
   height={300} // Alto original o aproximado de la imagen
-  className="w-auto h-auto max-w-full m-auto my-5"
+  className="w-auto h-auto max-w-full m-auto my-5 xxl:w-[100%]"
 />
 </Link>
 <br />
@@ -85,7 +85,7 @@ const page = () => {
   alt="@creatalento.pe. (2025, febrero 03). 7 pasos para diseñar un plan de carrera."
   width={800} // Ancho original o aproximado de la imagen
   height={300} // Alto original o aproximado de la imagen
-  className="w-auto h-auto max-w-full m-auto"
+  className="w-auto h-auto max-w-full m-auto xxl:w-[100%]"
 />
 </Link>
 <br />
@@ -108,7 +108,7 @@ La relación entre la estrategia organizacional y los planes de carrera también
   alt="@creatalento.pe. (2025, febrero 12). Plan de carrera vs plan de sucesión."
   width={800} // Ancho original o aproximado de la imagen
   height={300} // Alto original o aproximado de la imagen
-  className="w-auto h-auto max-w-full m-auto"
+  className="w-auto h-auto max-w-full m-auto xxl:w-[100%]"
 />
 </Link>
 <br />    
